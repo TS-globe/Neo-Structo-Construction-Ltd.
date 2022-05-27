@@ -1,0 +1,62 @@
+*{
+    padding: 0%;
+}
+body{
+    background-color: aliceblue;
+}
+#neo-img1{
+    border-radius: 50px;
+    height: 30px;
+    margin-right: 710px;
+}
+#underline{
+    background-color:rgba(255,255 ,255 , 0.5);
+    width: 20px;
+    margin-top: -20px;
+    position: fixed;
+}
+#tsst{
+    margin-top: -330px;
+    margin-left: 150px;
+    color:rgb(246, 50, 15);
+    font-style: italic;
+    font-weight: bold;
+    position: fixed;
+}
+#tst{
+    font-style: italic;
+    width: 265px;
+    position: fixed;
+    margin-left: 25px;
+    margin-top: -370px;
+    background-color: rgba(255,255,255,0.3);
+}
+#img-neo2{
+    width: 1260px;
+}
+.nav1{
+    height: 20px;
+}
+.nav{
+    background-color: aliceblue;
+    color: black;
+}
+.i:hover{
+    background-color: grey;
+    border-radius: 25px;
+}
+
+.divs{
+    display: inline;
+}
+.neoo{
+    font-size: 15px;
+}
+.la{
+    width: 250px;
+}
+#Sh{
+    margin-left: 600px;
+    color: rgba(21, 20, 20, 0.3);
+    font-size: 20px;
+}
